@@ -1,0 +1,31 @@
+.home{
+   display: inline-block;
+   width: 90%;
+   margin-left: 30px;
+}
+.logout{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.timeline{
+  margin-top: 15px;
+  background-color: rgb(110, 91, 218);
+}
+
+.btt-timeline{
+  margin: 5px;
+  padding: 3px;
+  background-color:   rgb(162, 200, 216);
+}
+
+.delete{
+  color: red;
+  
+}
+
+.label{
+  font-weight: 700;
+  font-size: larger;
+  color: red;
+}
